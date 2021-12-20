@@ -1,6 +1,6 @@
-package estruturais.adapter.tvPort.devices;
+package structural.adapter.tvPort.devices;
 
-import estruturais.adapter.tvPort.interfaces.HDMI;
+import structural.adapter.tvPort.interfaces.HDMI;
 
 public class TV implements HDMI {
 

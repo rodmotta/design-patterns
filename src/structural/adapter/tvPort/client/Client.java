@@ -1,9 +1,9 @@
-package estruturais.adapter.tvPort.client;
+package structural.adapter.tvPort.client;
 
-import estruturais.adapter.tvPort.adapters.HDMIToVGAAdapter;
-import estruturais.adapter.tvPort.adapters.HTMIToOldMonitorAdapter;
-import estruturais.adapter.tvPort.devices.Computer;
-import estruturais.adapter.tvPort.devices.OldMonitor;
+import structural.adapter.tvPort.adapters.HDMIToVGAAdapter;
+import structural.adapter.tvPort.adapters.HTMIToOldMonitorAdapter;
+import structural.adapter.tvPort.devices.Computer;
+import structural.adapter.tvPort.devices.OldMonitor;
 
 public class Client {
     public static void main(String[] args) {

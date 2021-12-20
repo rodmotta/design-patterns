@@ -1,7 +1,7 @@
-package estruturais.adapter.tvPort.adapters;
+package structural.adapter.tvPort.adapters;
 
-import estruturais.adapter.tvPort.devices.OldMonitor;
-import estruturais.adapter.tvPort.interfaces.HDMI;
+import structural.adapter.tvPort.devices.OldMonitor;
+import structural.adapter.tvPort.interfaces.HDMI;
 
 public class HTMIToOldMonitorAdapter extends OldMonitor implements HDMI {
 

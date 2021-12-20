@@ -1,6 +1,6 @@
-package estruturais.adapter.tvPort.devices;
+package structural.adapter.tvPort.devices;
 
-import estruturais.adapter.tvPort.interfaces.VGA;
+import structural.adapter.tvPort.interfaces.VGA;
 
 public class OldMonitor implements VGA {
 

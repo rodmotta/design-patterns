@@ -1,7 +1,7 @@
-package estruturais.adapter.tvPort.adapters;
+package structural.adapter.tvPort.adapters;
 
-import estruturais.adapter.tvPort.interfaces.HDMI;
-import estruturais.adapter.tvPort.interfaces.VGA;
+import structural.adapter.tvPort.interfaces.HDMI;
+import structural.adapter.tvPort.interfaces.VGA;
 
 public class HDMIToVGAAdapter implements HDMI {
 

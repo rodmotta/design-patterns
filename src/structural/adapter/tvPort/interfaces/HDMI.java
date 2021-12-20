@@ -1,4 +1,4 @@
-package estruturais.adapter.tvPort.interfaces;
+package structural.adapter.tvPort.interfaces;
 
 public interface HDMI {
     void setImage(String image);
