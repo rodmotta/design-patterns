@@ -1,0 +1,31 @@
+#🧩🧩 Design Patterns 🧩🧩
+Padrões de projeto (design patterns) são soluções típicas para problemas comuns em projeto de software.
+Cada padrão é como uma planta de construção que você pode customizar para resolver um problema de projeto particular em seu código.
+
+### Creational Patterns
+- [ ] Factory Method
+- [ ] Abstract Factory
+- [ ] Builder
+- [ ] prototype
+- [ ] Singleton
+
+### Structural Patterns
+- [x] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Proxy
+
+### Behavioral Patterns
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Visitor
