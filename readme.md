@@ -10,7 +10,7 @@ Cada padrão é como uma planta de construção que você pode customizar para r
 - [ ] Singleton
 
 ### Structural Patterns
-- [x] [Adapter](https://github.com/rodmotta/design-patterns/tree/master/src/estruturais/adapter)
+- [x] [Adapter](https://github.com/rodmotta/design-patterns/tree/master/src/structural/adapter)
 - [ ] Bridge
 - [ ] Composite
 - [ ] Decorator
@@ -26,6 +26,6 @@ Cada padrão é como uma planta de construção que você pode customizar para r
 - [ ] Memento
 - [ ] Observer
 - [ ] State
-- [ ] Strategy
+- [x] [Strategy](https://github.com/rodmotta/design-patterns/tree/master/src/behavioral/strategy)
 - [ ] Template Method
 - [ ] Visitor
