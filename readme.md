@@ -5,7 +5,7 @@ Cada padrão é como uma planta de construção que você pode customizar para r
 ### Creational Patterns
 - [ ] Factory Method
 - [ ] Abstract Factory
-- [ ] Builder
+- [x] [Builder](https://github.com/rodmotta/design-patterns/tree/master/src/creational/builder)
 - [ ] prototype
 - [ ] Singleton
 
