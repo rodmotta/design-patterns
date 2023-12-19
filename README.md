@@ -1,5 +1,4 @@
 # 🧩 Design Patterns 🧩
-___
 
 ## Creational
 [🏗️ Builder](https://github.com/rodmotta/design-patterns/tree/master/src/creational/builder)\
@@ -9,4 +8,5 @@ ___
 [🔌 Adapter](https://github.com/rodmotta/design-patterns/tree/master/src/structural/adapter)
 
 ## Behavioral
-[🧐 Strategy](https://github.com/rodmotta/design-patterns/tree/master/src/behavioral/strategy)
+[🧐 Strategy](https://github.com/rodmotta/design-patterns/tree/master/src/behavioral/strategy)\
+[👀 Observer](https://github.com/rodmotta/design-patterns/tree/master/src/behavioral/observer)
